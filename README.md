@@ -1,5 +1,15 @@
-Sample usage:
+# Usage notes
 
+## Maven dependency
+```
+<dependency>
+  <groupId>io.hyte.activemq</groupId>
+  <artifactId>activemq-client-jakarta</artifactId>
+  <version>5.18.0.hyte-1-SNAPSHOT</version>
+</dependency>
+```
+
+## Sample code
 ```
 package io.hyte.activemq;
 
