@@ -1,3 +1,7 @@
+# Overview
+
+This is a transitional build of activemq-client jar for use with Jakarta JMS 3.0 namespaces for use with projects until the Apache ActiveMQ project completes a Jakarta release.
+
 # Usage notes
 
 ## Maven dependency
@@ -5,7 +9,7 @@
 <dependency>
   <groupId>io.hyte.activemq</groupId>
   <artifactId>activemq-client-jakarta</artifactId>
-  <version>5.18.0.hyte-1-SNAPSHOT</version>
+  <version>5.18.0.hyte-1</version>
 </dependency>
 ```
 
